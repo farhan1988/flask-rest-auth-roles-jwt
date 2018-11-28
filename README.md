@@ -2,4 +2,4 @@
 
 
 [![license](https://img.shields.io/github/license/farhan1988/flask-rest-auth-roles-jwt.svg?max=2592000)]()
-[![packagist](https://img.shields.io/packagist/v/farhan1988/flask-rest-auth-roles-jwt.svg?max=2592000)]()
+![GitHub package version](https://img.shields.io/github/package-json/v/flask-rest-auth-roles-jwt.svg?max=2592000)
