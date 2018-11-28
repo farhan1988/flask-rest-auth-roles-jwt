@@ -1,0 +1,9 @@
+virtualenv
+ansible
+attrdict
+flask-restful
+SQLAlchemy
+PyJWT
+uwsgi
+python-dateutil
+attrdict
